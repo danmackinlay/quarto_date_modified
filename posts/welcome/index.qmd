@@ -1,7 +1,8 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Dan MacKinlay"
 date: "2024-01-02"
+date-modified: "2024-01-12"
 categories: [news]
 usefulness: 1
 ---

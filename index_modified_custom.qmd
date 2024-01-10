@@ -1,0 +1,22 @@
+---
+listing:
+  page-size: 50
+  sort: "date-modified desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  contents:
+    - posts
+  template: custom_listing.ejs
+  fields: [date, date-modified, title]
+  field-types:
+    date: date
+    date-modified: date
+  field-display-names:
+    title: "Title"
+    date: "Created"
+    date-modified: "Modified"
+---
+
+I let you sort by date-modified, because I use a custom template.
